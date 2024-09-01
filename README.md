@@ -4,8 +4,7 @@ A simple and efficient To-Do application designed using Kotlin, XML, and Room Da
 
 ## Demo Video
 
-![ToDoApp-gif](https://github.com/user-attachments/assets/4a9d40ca-d095-4d1a-a253-df6147f6cf0d)
-
+https://github.com/user-attachments/assets/7a5bc640-6291-42df-9541-3039e72516a9
 
 ## Features
 
